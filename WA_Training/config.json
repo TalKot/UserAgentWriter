@@ -1,0 +1,5 @@
+{
+    "KafkaBroker": ["kafka-location-test.com:9092"],
+	  "KafkaTopic":  "wa-test",
+	  "KafkaMetric": "test-my-component.kafka"
+}
